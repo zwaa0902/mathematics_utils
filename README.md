@@ -1,7 +1,5 @@
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 const like = 'sample';
@@ -23,7 +21,7 @@ void main() {
 Math SDK cung cấp các phương thức để thực hiện các phép tính toán toán học đơn giản.
 
 
-#Methods
+# Methods
 
 `add(int a, int b)`: Thực hiện phép cộng giữa `a` và `b`.
 
@@ -40,4 +38,3 @@ Math SDK cung cấp các phương thức để thực hiện các phép tính to
 `power(double a, double b)` - Tính lũy thừa của số `a` với số mũ `b`.
 
 `solveQuadraticEquation(double a, double b, double c)` - Giải phương trình bậc hai `ax^2 + bx + c = 0`.
-# mathematics_utils
